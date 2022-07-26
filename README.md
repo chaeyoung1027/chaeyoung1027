@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+ <!--
 **chaeyoung1027/chaeyoung1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# NICE TO MEET YOU!
+# NICE TO MEET YOU!👋
 
 #### 📕My Language📕
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
