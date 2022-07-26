@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # NICE TO MEET YOU!👋
 
-#### 📕My Language📕
+### 📕My Language📕
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -36,10 +36,7 @@ Here are some ideas to get you started:
 ### me
   <a href="https://www.instagram.com/176oxm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://https://velog.io/@chaeyoung/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://https://github.com/chaeyoung1027/" target="_blank"><img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
-  
-  
+  <a href="https://https://github.com/chaeyoung1027/" target="_blank"><img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=Instagram&logoColor=white"/></a>gi
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung1027&layout=compact)](https://github.com/chaeyoung1027/github-readme-stats)
