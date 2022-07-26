@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 ### me
   <a href="https://www.instagram.com/176oxm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://https://velog.io/@chaeyoung/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://https://github.com/chaeyoung1027/" target="_blank"><img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
   
   
