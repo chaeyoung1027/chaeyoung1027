@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 미림여자정보과학고등학교...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 # NICE TO MEET YOU!👋
 
 ### 🖋My Language🖋
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/176oxm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://https://velog.io/@chaeyoung/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Instagram&logoColor=white"/></a>
    <a href="https://https://github.com/chaeyoung1027/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+   </div>
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung1027&layout=compact)](https://github.com/chaeyoung1027/github-readme-stats)
