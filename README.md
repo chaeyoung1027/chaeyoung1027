@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Blaka+Hollow&size=40&color=9FB5F7&background=FF79EF00&lines=NICE TO MEET YOU!👋)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Blaka+Hollow&size=40&color=9FB5F7&background=FF79EF00&lines=NICE+TO+MEET+YOU!👋)](https://git.io/typing-svg)
 
 ### 🖋My Language🖋
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
