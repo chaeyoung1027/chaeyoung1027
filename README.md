@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## NICE TO MEET YOU!👋
+### 안녕하세요!🙌💕
  
 ### 🖋My Language🖋
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
