@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 <!--    <a href="https://https://github.com/chaeyoung1027/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung1027&layout=compact)](https://github.com/chaeyoung1027/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung1027&layout=compact)](https://github.com/chaeyoung1027/github-readme-stats)
+ -->
    </div>
