@@ -30,8 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
  <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
- <!--C#-->
-  <img src="https://img.shields.io/badge/C#-0081CE?style=flat-square&logo=C#&logoColor=white"/>
  <!--C++-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
  <!--Kotlin-->
