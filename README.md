@@ -73,14 +73,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
  <!--trello-->
   <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
- <!--velog-->
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
  <!--figma-->
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 ### ✨me✨
   <a href="https://www.instagram.com/176oxm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://velog.io/@chaeyoung" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://velog.io/@chaeyoung" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <!--    <a href="https://https://github.com/chaeyoung1027/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    -->
   
