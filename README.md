@@ -1,21 +1,10 @@
- <!--
-**chaeyoung1027/chaeyoung1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-## NICE TO MEET YOU!👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CHAEYOUNG)
+
+
+
+## WELCOM TO MY GITHUB!👋
 
  
 ### 🖋Language🖋
@@ -80,11 +69,8 @@ Here are some ideas to get you started:
 ### ✨me✨
   <a href="https://www.instagram.com/176oxm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://velog.io/@chaeyoung" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<!--    <a href="https://https://github.com/chaeyoung1027/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-   -->
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung1027&layout=compact)](https://github.com/chaeyoung1027/github-readme-stats)
- -->
-   </div>
+ 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung1027&layout=compact)](https://github.com/chaeyoung1027/github-readme-stats)   -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+ </div>
