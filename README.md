@@ -1,5 +1,6 @@
  <!--
 **chaeyoung1027/chaeyoung1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 Here are some ideas to get you started:
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 ## NICE TO MEET YOU!👋
 
  
-### 🖋My Language🖋
+### 🖋Language🖋
  <!--Java-->
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <!--python-->
@@ -85,3 +86,5 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoung1027&layout=compact)](https://github.com/chaeyoung1027/github-readme-stats)
  -->
    </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
