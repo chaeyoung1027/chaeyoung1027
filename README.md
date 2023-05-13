@@ -1,6 +1,6 @@
  <!--
 **chaeyoung1027/chaeyoung1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
 Here are some ideas to get you started:
 
